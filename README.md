@@ -111,7 +111,7 @@ jupyter notebook loan_Data_Preprocessing.ipynb
 For questions, suggestions, or contributions, feel free to open an issue or contact:
 **Devarshi Lalani**  
 Email: [thelogical369@gmail.com]  
-GitHub: [github.com/codeMaestro78]
+GitHub: [https://github.com/codeMaestro78]
 
 ---
 
